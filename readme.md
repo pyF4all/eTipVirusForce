@@ -6,7 +6,7 @@ Paper on Quantitative electrostatic force tomography for virus capsids in intera
 - `surf_gs1.0_noTER_split.face` and `surf_gs1.0_noTER_split.vert`
 - `phi.txt` and `dphir.txt` data from simulations in Pygbe, for distances 2, 4, 6, 8, 10, 12, 14, 16, 20, 50, 100, 500, 1000 Angstrom between capsid and tip
 
-These files can be found in a [Zenodo repository](10.5281/zenodo.6556469)
+These files can be found in a [Zenodo repository](https://doi.org/10.5281/zenodo.6556469)
 
 Here you'll find:
 
